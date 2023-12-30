@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SleepPPG</string>
+    <string name="model_output">Model output: %1$s</string>
+</resources>
